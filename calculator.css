@@ -1,0 +1,18 @@
+.green{
+	background: green;
+}
+
+button{
+	width: 90px;
+	height: 40px;
+	font-size: 20px;
+}
+
+p{
+	margin: 5px;
+}
+
+div{
+	margin: 5px;
+	float: right;
+}
