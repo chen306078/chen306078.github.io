@@ -1,3 +1,5 @@
+//這是關於 javascripe 的一些實驗
+
 // 在命令提示字元裡打 node + 檔名 即可看當前狀況
 console.log('hello js');
 
